@@ -6,7 +6,7 @@ namespace prueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World desde equipo super trabajor K");
+            Console.WriteLine("Hello World desde Super trabajor K");
         }
     }
 }
